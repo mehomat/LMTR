@@ -1,5 +1,5 @@
 # LMTR
-LMTR suite for unconstrained optimization. This package contains limited memory trust-region and line-search algorithms implemented in MATLAB. This package contains limited memory trust-region and line-search algorithms implemented in MATLAB. 
+LMTR suite for unconstrained optimization. This package contains limited memory trust-region and line-search algorithms implemented in MATLAB.
 The algorithms are described in "On Efficiently Combining Limited Memory and Trust-Region Techniques", Mathematical Programming Computation (2017) Vol. 9, no 1, pp. 101-134, [https://doi.org/10.1007/s12532-016-0109-7](https://doi.org/10.1007/s12532-016-0109-7).
 
 ## ALGORITHMS
